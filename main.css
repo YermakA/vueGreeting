@@ -1,0 +1,40 @@
+.btn[disabled]:hover {
+    background: #606f7b;
+  }
+
+  .btn-primary {
+    background: #6cb2eb;
+    color: #fff;
+  }
+
+  .btn-primary:hover {
+    background: #3490dc;
+  }
+
+  .btn-cancel {
+    background: #ef5753;
+    color: #fff;
+  }
+
+  .btn-cancel:hover {
+    background: #e3342f;
+    color: #fff;
+  }
+
+  .strikeout {
+    text-decoration: line-through;
+    color: #b8c2cc;
+  }
+
+  .strikeout:hover {
+    color: #8795a1;
+  }
+
+  .priority {
+    color: #de751f;
+  }
+  input[type="checkbox"]{
+    display: inline !important;
+    box-shadow: none;
+    width: auto;
+  }
